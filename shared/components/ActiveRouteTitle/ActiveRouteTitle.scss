@@ -1,0 +1,19 @@
+.title {
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+  position: relative;
+  @include ff-roboto-bold;
+  font-size: 24px;
+  color: $color-brand;
+
+  &:after {
+    content: '';
+    display: block;
+    width: 40px;
+    height: 3px;
+    background-color: rgba($color-brand, 0.3);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+}

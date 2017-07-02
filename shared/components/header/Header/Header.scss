@@ -1,0 +1,19 @@
+.logo {
+  @include ff-roboto-bold;
+  font-size: 30px;
+}
+
+.loginButton {
+  cursor: pointer;
+  color: $color-brand;
+  font-size: 16px;
+}
+
+.nav {
+  font-size: 0;
+}
+
+.navItem {
+  margin-left: 60px;
+  font-size: 18px;
+}

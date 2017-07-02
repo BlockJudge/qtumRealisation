@@ -1,0 +1,45 @@
+.title {
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.description {
+  line-height: 26px;
+  font-size: 16px;
+}
+
+.attachments {
+  margin-top: 20px !important;
+}
+
+.info {
+  margin-top: 30px;
+}
+
+.infoItem {
+  line-height: 50px;
+  @include inline-block;
+  border: 1px solid $color-border;
+  margin-left: 20px;
+  padding: 0 18px;
+  font-size: 18px;
+  text-align: center;
+
+  span {
+    padding-right: 10px;
+    @include ff-roboto-light;
+    color: $color-f-comment;
+  }
+
+  b {
+    color: #000;
+  }
+
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+.openArbitrageButton {
+  margin-top: 30px;
+}
