@@ -792,27 +792,27 @@
   font-style: normal;
   font-weight: 700; }
 
-._3Yzm {
+._3MPK {
   display: block;
   padding-left: 20px;
   text-align: left; }
-  ._3Yzm li {
+  ._3MPK li {
     margin-top: 10px;
     color: #ff0066; }
 
-.P7ai {
+._Yx4 {
   width: 286px;
   line-height: 48px;
   margin: 30px auto 0;
   border: 1px solid #e6e6e6;
   font-size: 18px;
   text-align: center; }
-  .P7ai span {
+  ._Yx4 span {
     padding-right: 10px;
     font-family: 'Roboto Light';
     font-weight: 300;
     color: #9b9b9b; }
-  .P7ai b {
+  ._Yx4 b {
     color: #000; }
 @font-face {
   font-family: 'Roboto Light';
@@ -2502,7 +2502,7 @@ a {
 
 ._2UYp {
   width: 70%;
-  padding: 100px 0; }
+  padding: 60px 0; }
 
 .XoOR {
   font-family: 'Roboto Mono Light';
@@ -2988,7 +2988,9 @@ textarea._3T0z {
   background-color: transparent !important; }
   ._13AT td {
     padding: 20px 0;
-    text-align: center; }
+    text-align: center;
+    font-size: 16px;
+    color: #9b9b9b; }
 @font-face {
   font-family: 'Roboto Light';
   src: url(/fonts/roboto-light.eot);
@@ -3063,6 +3065,9 @@ textarea._3T0z {
     color: #000; }
   ._33hl:first-child {
     margin-left: 0; }
+
+._1ifo {
+  margin-top: 30px; }
 @font-face {
   font-family: 'Roboto Light';
   src: url(/fonts/roboto-light.eot);
